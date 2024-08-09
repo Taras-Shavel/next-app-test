@@ -1,0 +1,9 @@
+[
+    {"id": 1, "title": "Photographer", "icon": "./Images/AccordionIcons/Photographer.png"},
+    {"id": 2, "title": "DJ", "icon": "./Images/AccordionIcons/DJ.png"},
+    {"id": 3, "title": "Band", "icon": "./Images/AccordionIcons/Band.png"},
+    {"id": 4, "title": "Decorations", "icon": "./Images/AccordionIcons/Decorations.png"},
+    {"id": 5, "title": "Florist", "icon": "./Images/AccordionIcons/Florist.png"},
+    {"id": 6, "title": "Make up atist", "icon": "./Images/AccordionIcons/MakeUp.png"},
+    {"id": 7, "title": "Bakery", "icon": "./Images/AccordionIcons/Bakery.png"}
+]

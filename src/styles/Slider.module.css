@@ -1,0 +1,7 @@
+.containerSlider > div > div {
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.containerSlider > div > div > div {
+   width: 250px !important;
+}

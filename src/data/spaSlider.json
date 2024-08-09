@@ -1,0 +1,30 @@
+[
+    {
+        "imgSrc": "./Images/SpaSlider/Yasuragi.png",
+        "title": "YASURAGI",
+        "description": "Upplev ett Spa i japansk anda.",
+        "location": "Stockholm, Sverige",
+        "price": "7 995 KR"
+    },
+    {
+        "imgSrc": "./Images/SpaSlider/SteamHotel.png",
+        "title": "STEAM HOTEL",
+        "description": "Relaxing spa experience.",
+        "location": "Gothenburg, Sverige",
+        "price": "7 995 KR"
+    },
+    {
+        "imgSrc": "./Images/SpaSlider/WoodHotel.png",
+        "title": "THE WOOD HOTEL",
+        "description": "Luxurious spa services.",
+        "location": "Malmö, Sverige",
+        "price": "7 995 KR"
+    },
+    {
+        "imgSrc": "./Images/SpaSlider/HotelTwoRow.png",
+        "title": "KOSTA BODA ART HOTEL WITH A TWO ROW TITLE",
+        "description": "Organic treatments for you.",
+        "location": "Uppsala, Sverige",
+        "price": "7 995 KR"
+    }
+]

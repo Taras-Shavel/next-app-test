@@ -1,0 +1,30 @@
+[
+    {
+        "imgSrc" : "./Images/OtherSliders/Svenskt.png",
+        "title": "SVENSKT TENN",
+        "description": "Upplev ett Spa i japansk anda.",
+        "location": "Stockholm, Sverige",
+        "price": "7 995 KR"
+    },
+    {
+        "imgSrc" : "./Images/OtherSliders/GlobalKnives.png",
+        "title": "GLOBAL KNIVES",
+        "description": "Relaxing spa experience.",
+        "location": "Gothenburg, Sverige",
+        "price": "7 995 KR"
+    },
+    {
+        "imgSrc": "./Images/OtherSliders/SatakeKnives.png",
+        "title": "SATAKE KNIVES",
+        "description": "Luxurious spa services.",
+        "location": "Malmö, Sverige",
+        "price": "7 995 KR"
+    },
+    {
+        "imgSrc": "./Images/OtherSliders/Marimekko.png",
+        "title": "MARIMEKKO",
+        "description": "Organic treatments for you.",
+        "location": "Uppsala, Sverige",
+        "price": "7 995 KR"
+    }
+]
